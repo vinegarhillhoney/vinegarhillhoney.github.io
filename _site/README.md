@@ -1,4 +1,0 @@
-vinegarhillhoney.github.io
-==========================
-
-Website
