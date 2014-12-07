@@ -252,7 +252,7 @@ a:after {
 
 @media all and (max-device-width: 480px) {
     .changeThisFont {
-        font-size: 0.5em;
+        font-size: 0.2em;
     }
 }
 
